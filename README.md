@@ -8,7 +8,7 @@ Travel BNB is a personal project designed to showcase the use of Next.js, React,
 
 1. **Clone the repository:**
    ```bash
-   git clone
+   git clone https://github.com/Evia-H/travel_bnb.git
    ```
 2. **Install dependencies:**
    ```bash
