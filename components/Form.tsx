@@ -1,11 +1,10 @@
-const SubmitForm = async () => {
-  "use server";
-  console.log("creating user...");
-};
+"use client";
+
+import { CreateUserAction } from "@/utils/Actions";
 
 function FormPage() {
   return (
-    <form action={SubmitForm} className={formStyle}>
+    <form action={CreateUserAction} className={formStyle}>
       <h2 className="text-2xl mb-4">Create User</h2>
       <input
         type="text"
