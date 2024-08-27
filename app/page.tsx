@@ -1,16 +1,13 @@
-import Link from "next/link";
+import { Button } from "@/components/ui/button";
 import React from "react";
 
 function HomePage() {
   return (
     <div>
-      <h1 className="text-7xl">Home Page</h1>
-      <Link
-        href={"./about"}
-        className="text-blue-300 text-xl inline-block mt-8"
-      >
-        About page
-      </Link>
+      <h1 className="text-3xl">Home Page</h1>
+      <Button variant="outline" size="lg" className="m-8 capitalize">
+        click me
+      </Button>
     </div>
   );
 }
