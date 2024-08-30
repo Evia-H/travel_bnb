@@ -36,7 +36,9 @@ Travel BNB is a personal project designed to showcase the use of Next.js, React,
 - React
 - TypeScript
 - Tailwind CSS
+- shadcn/ui library
 - Javascript
+- Clerk Auth
 
 **Additional Notes**
 
