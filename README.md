@@ -40,6 +40,8 @@ Travel BNB is a personal project designed to showcase the use of Next.js, React,
 - Javascript
 - Clerk Auth
 - Zod
+- Supabase
+- Prisma
 
 **Additional Notes**
 
